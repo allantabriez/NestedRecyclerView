@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NestedRecyclerView</string>
+    <string name="tambah">Tambah</string>
+    <string name="stok_habis">Stok Habis</string>
+    <string name="ingin_berganti_resto">Ingin berganti resto?</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+</resources>
